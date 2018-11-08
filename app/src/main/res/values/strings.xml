@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">slotgame</string>
+    <string name="resettxt">手持ちをリセットする</string>
+    <string name="titletxt1">ミニスロットゲーム</string>
+    <string name="temotitxt1">手持ちコイン：</string>
+    <string name="temotikoin">1000</string>
+    <string name="kakekintxt1">掛け金：</string>
+    <string name="kakekin">10</string>
+    <string name="kakekinnupbtn">掛け金UP</string>
+    <string name="kakekinndown">掛け金DOWN</string>
+    <string name="start">スタート！</string>
+    <string name="txt1">STOPを全部押してね</string>
+    <string name="returntxt">戻る</string>
+    <string name="stoptxt">STOP</string>
+</resources>
